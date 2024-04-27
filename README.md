@@ -13,11 +13,15 @@ The Speech-to-Text Recognition modality enables you to transcribe spoken languag
 ## 3. Text-to-Speech Generation
 The Text-to-Speech Generation modality converts written text into spoken language. It employs sophisticated text-to-speech synthesis algorithms to produce natural-sounding speech from input text.
 ## 
+##
 ## Results
 ## ![bg](https://github.com/VihalKarhade/Multimodal-AI-Toolkit/assets/130913527/627b9099-d7cd-4f83-9504-f7a0c8dbe65c)
-
+##
 ## ![tti](https://github.com/VihalKarhade/Multimodal-AI-Toolkit/assets/130913527/914c9f6b-1f6d-4811-9745-dc02c6287552)
-
+##
 ## ![stt](https://github.com/VihalKarhade/Multimodal-AI-Toolkit/assets/130913527/d93c01b5-1b66-4a18-b066-dd1438e9d00d)
-
+##
 ## ![tts](https://github.com/VihalKarhade/Multimodal-AI-Toolkit/assets/130913527/907f3e63-f017-48ec-8d78-010b7ea1bc62)
+
+## Documentation
+### For detailed documentation on each modality and instructions on how to use them, please visit our website: Multimodal AI Toolkit

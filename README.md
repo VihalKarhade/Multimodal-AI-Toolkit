@@ -24,5 +24,4 @@ The Text-to-Speech Generation modality converts written text into spoken languag
 ## ![tts](https://github.com/VihalKarhade/Multimodal-AI-Toolkit/assets/130913527/907f3e63-f017-48ec-8d78-010b7ea1bc62)
 
 ## Documentation
-### For detailed documentation on each modality and instructions on how to use them, please visit our website: [Multimodal AI Toolkit
-](https://orange-pond-05cc66c10.5.azurestaticapps.net/)
+### For detailed documentation on each modality and instructions on how to use them, please visit our website: [Multimodal AI Toolkit](https://orange-pond-05cc66c10.5.azurestaticapps.net/)
